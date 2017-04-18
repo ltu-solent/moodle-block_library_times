@@ -1,0 +1,18 @@
+.opening-times-panel {
+	padding: 10px 0px;
+	margin-bottom: 20px;
+	background: #fff;
+}
+
+div#openingTimesPanel h3{
+    padding-left: 0px;
+}
+
+div#openingTimesPanel p{ 
+    margin-top: 20px;
+}
+
+div#openingTimesPanel span{ 
+    font-weight: bold;
+}
+
